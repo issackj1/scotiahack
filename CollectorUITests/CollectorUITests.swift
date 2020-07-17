@@ -1,6 +1,6 @@
 //
-//  scotiahackUITests.swift
-//  scotiahackUITests
+//  CollectorUITests.swift
+//  CollectorUITests
 //
 //  Created by Issack John on 2020-07-17.
 //  Copyright © 2020 Issack John. All rights reserved.
@@ -8,7 +8,7 @@
 
 import XCTest
 
-class scotiahackUITests: XCTestCase {
+class CollectorUITests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
