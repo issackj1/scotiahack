@@ -16,11 +16,11 @@
 		366CBF7A24C20945006202CF /* CollectorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 366CBF7924C20945006202CF /* CollectorTests.swift */; };
 		366CBF8524C20945006202CF /* CollectorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 366CBF8424C20945006202CF /* CollectorUITests.swift */; };
 		366CBF9624C20AEE006202CF /* Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = 366CBF9524C20AEE006202CF /* Data.swift */; };
-		366CBF9824C20B09006202CF /* UserList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 366CBF9724C20B09006202CF /* UserList.swift */; };
 		366CBF9B24C20BEC006202CF /* userData.json in Resources */ = {isa = PBXBuildFile; fileRef = 366CBF9A24C20BEC006202CF /* userData.json */; };
 		366CBF9D24C20C48006202CF /* userDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 366CBF9C24C20C48006202CF /* userDetail.swift */; };
 		366CBF9F24C20DCB006202CF /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = 366CBF9E24C20DCB006202CF /* User.swift */; };
-		366CBFA124C20F86006202CF /* UserRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 366CBFA024C20F86006202CF /* UserRow.swift */; };
+		366CBFA224C21483006202CF /* UserRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 366CBFA024C20F86006202CF /* UserRow.swift */; };
+		366CBFA324C216C4006202CF /* UserList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 366CBF9724C20B09006202CF /* UserList.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -302,14 +302,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				366CBF9824C20B09006202CF /* UserList.swift in Sources */,
 				366CBF6324C20943006202CF /* AppDelegate.swift in Sources */,
 				366CBF9624C20AEE006202CF /* Data.swift in Sources */,
 				366CBF6524C20943006202CF /* SceneDelegate.swift in Sources */,
 				366CBF6724C20943006202CF /* ContentView.swift in Sources */,
+				366CBFA324C216C4006202CF /* UserList.swift in Sources */,
 				366CBF9D24C20C48006202CF /* userDetail.swift in Sources */,
 				366CBF9F24C20DCB006202CF /* User.swift in Sources */,
-				366CBFA124C20F86006202CF /* UserRow.swift in Sources */,
+				366CBFA224C21483006202CF /* UserRow.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
